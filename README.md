@@ -5,6 +5,10 @@ https://github.com/ZecHub/zechub/blob/main/site/guides/RaspberryPi4FullNode.md
 
 chmod +x all .sh files and use as needed.
 
+# dev version
+
+For the latest updates, check out the dev folder. *They are changed often*
+
 ## Send Owl
 In your terminal add your addresses:
 
