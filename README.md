@@ -19,6 +19,11 @@ https://github.com/ZecHub/zechub/blob/main/site/guides/RaspberryPi4FullNode.md
 
 For the latest updates, check out the dev folder. *They are changed often*
 
+## Private Memos
+
+![Screenshot_2023-09-11_18-22-30](https://github.com/dismad/zcashdUtilities/assets/81990132/8179c292-c577-4d1c-8aeb-a221dfda299e)
+
+
 ## Send Owl Example
 In your terminal add your addresses:
 
