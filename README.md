@@ -8,10 +8,12 @@ https://github.com/ZecHub/zechub/blob/main/site/guides/RaspberryPi4FullNode.md
 `chmod + x` all .sh files and use as needed.
 `sudo apt install qrencode` (if you want QR codes)
 
+```
 * myBalance.sh                               // Display Balance of given UA account number
 * displayAddress.sh (requres qrencode)       // Optional: display QR code of address for easy reload of funds
 * sendOwl.sh                                 // Send private funds/memos. Dev version includes results.sh built in and support for alias's
 * results.sh                                 // Display results of reading a given opcode.
+```
 
 ## DEV version
 
@@ -35,4 +37,4 @@ Note: you may need to update the privacy policy depending on the type of address
 See [here](https://zcash.github.io/rpc/z_sendmany.html).
 
 ## Check balance for UA account 0 ( Example )
-./myBalance.sh 0
+`./myBalance.sh 0`
