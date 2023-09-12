@@ -24,7 +24,7 @@ For the latest updates, check out the dev folder. *They are changed often*
 ![Screenshot_2023-09-11_18-22-30](https://github.com/dismad/zcashdUtilities/assets/81990132/8179c292-c577-4d1c-8aeb-a221dfda299e)
 
 
-## Send Owl Example
+## SendOwl (Example)
 In your terminal add your addresses:
 
 z1="from address"
