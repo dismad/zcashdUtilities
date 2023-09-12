@@ -1,15 +1,23 @@
-# zcashdUtilities
+# ZcashdUtilities
 Helper scripts for using zcashd. Will need a running and synced zcashd installed. See here for more info:
 
 https://github.com/ZecHub/zechub/blob/main/site/guides/RaspberryPi4FullNode.md
 
-chmod +x all .sh files and use as needed.
+## Prerequisites
 
-# dev version
+`chmod + x` all .sh files and use as needed.
+`sudo apt install qrencode` (if you want QR codes)
+
+* myBalance.sh                               // Display Balance of given UA account number
+* displayAddress.sh (requres qrencode)       // Optional: display QR code of address for easy reload of funds
+* sendOwl.sh                                 // Send private funds/memos. Dev version includes results.sh built in and support for alias's
+* results.sh                                 // Display results of reading a given opcode.
+
+## DEV version
 
 For the latest updates, check out the dev folder. *They are changed often*
 
-## Send Owl
+## Send Owl Example
 In your terminal add your addresses:
 
 z1="from address"
