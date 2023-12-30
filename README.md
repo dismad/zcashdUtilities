@@ -1,7 +1,7 @@
 # ZcashdUtilities
 Helper scripts for using zcashd. Will need a running and synced zcashd installed. See here for more info:
 
-https://github.com/ZecHub/zechub/blob/main/site/guides/Raspberry_Pi_4_Full_Node.md
+https://wiki.zechub.xyz/raspberry-pi-4-a-zcashd-full-node-guide
 
 ## Prerequisites
 
